@@ -1,0 +1,15 @@
+.shape { height: 100px; width: 400px; background-color: black; position: absolute;  left: 385px; top: 50px; border-radius: 5px;}
+
+.vertshape { position: absolute; width: 50px; height: 1647px; left: 0px; top: -15px; background-color: black; }
+
+.vertshape2 { position: absolute; width: 50px; height: 1647px; left: 1125px; top: -15px; background-color: black; }
+
+.thin-shape { height: 5px; width: 350px; background-color: black; position: absolute; left: 410px; top: 200px;}
+
+.shape2 { height: 490px; width: 450px; background-color: black; position: absolute; left: 365px; top: 680px; border-radius: 5px; }
+
+.shape3 { height: 300px; width: 472px; background-color: black; position: absolute; left: 355px; top: 1210px; border-radius: 5px; }
+
+.bottomshape { height: 35px; width: 500px; background-color: black; position: absolute; left: 343px; top: 1532px; border-radius: 10px;}
+
+
